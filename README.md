@@ -1,4 +1,3 @@
-[ 🌀 ] Olá.
 
 <div>
   <a href="https://github.com/B0NVENT0">
